@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C32AFB66-A3CB-988C-1973-AF93E3830D60}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/ExerciseShader/FalseColorImageShader.shader">
+    <Files>
+      <File FileName="Assets/Shaders/ExerciseShader/ExerciseShader.shader" Line="18" Column="14" />
+      <File FileName="Assets/Shaders/ExerciseShader/FalseColorImageShader.shader" Line="14" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity_Shaders_Book" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Shaders" expanded="True">
+                <Node name="ExerciseShader" expanded="True">
+                  <Node name="FalseColorImageShader.shader" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="45c1a80e-a247-43ab-9d57-25b2b224480e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

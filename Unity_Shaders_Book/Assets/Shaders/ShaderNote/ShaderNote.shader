@@ -75,14 +75,23 @@ FallBack "Name" Off
 	点积（dot product,也叫内积inner product）两种计算公式及其几何含义
 	叉积（cross product,也叫外积outer product）yz,zx,xy
 	
-	Square Matrix（方块矩阵） ,Diagonal Matrix（对角矩阵） ,Identity Matrix（单位矩阵）,Transposed Matrix（转置矩阵）,Inverse Matrix(逆矩阵)
+	Square Matrix（方块矩阵） ,Diagonal Matrix（对角矩阵） ,Identity Matrix（单位矩阵）
+	,Transposed Matrix（转置矩阵）,Inverse Matrix(逆矩阵)
 	Orthogonal(正交矩阵，和其转置矩阵相乘为单位矩阵，即其转置矩阵和逆矩阵相同)
-	
+
+	放射变换 affine transform
+
+	齐次坐标空间 homogeneous space
+	齐次坐标 homogeneous coordinate
+	齐次除法 homogeneous division
 	Determinant(行列式),
 	
-	Model Space(模型空间),World Space（世界空间）,View Space/Camera Space（观察空间）,Clip Space（（齐次）裁剪空间）,Screen Space(屏幕空间)
+	Model Space(模型空间, object space 对象空间),World Space（世界空间）,View Space/Camera Space（观察空间）,Clip Space（（齐次）裁剪空间）,Screen Space(屏幕空间)
 	Viewport Space(视口空间，屏幕空间坐标除以屏幕分辨率，将屏幕坐标归一化),Tangent Space(模型顶点的切线空间)
 	一个模型顶点所包含的信息：顶点坐标（coordinate）,纹理坐标（texture coordinate）,法线（normal）,切线（tangent）,副法线（binormal）
+
+	Model Space,World Space, Camera Space, Clip Space, Screen Space
+	orthographic projection 正交投影, perspective projection 透视投影
 
 	矩阵填充方式：Unity Shader 或者说CG是行优先，Unity Matrix4X4列优先
 
